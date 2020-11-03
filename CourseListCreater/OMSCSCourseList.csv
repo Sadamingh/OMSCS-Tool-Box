@@ -1,0 +1,47 @@
+,Type,CourseId,Name,Link,Note
+0,Core,CS 6035, Introduction to Information Security,http://omscs.gatech.edu/cs-6035-introduction-to-information-security,
+1,Core,CS 6200, Introduction to Operating Systems ,http://omscs.gatech.edu/cs-6200-introduction-operating-systems,formerly CS 8803 O02
+2,Core,CS 6210, Advanced Operating Systems,http://omscs.gatech.edu/cs-6210-advanced-operating-systems,
+3,Core,CS 6238, Secure Computer SystemsC,http://omscs.gatech.edu/cs-6238-secure-computer-systems,
+4,Core,CS 6250, Computer NetworksC,http://omscs.gatech.edu/cs-6250-computer-networks,
+5,Core,CS 6260, Applied CryptographyC ,,page coming soon!
+6,Core,CS 6262, Network Security,http://omscs.gatech.edu/cs-6262-network-security,
+7,Core,CS 6263, Intro to Cyber Physical Systems Security ,http://omscs.gatech.edu/cs-8803-special-topics-cyber-physical-systems,formerly CS 8803 O07
+8,,CS 6265, Information Security LabC,http://omscs.gatech.edu/cs-6265-information-security-lab,
+9,Core,CS 6290, High Performance Computer Architecture,http://omscs.gatech.edu/cs-6290-high-performance-computer-architecture,
+10,Core,CS 6291, Embedded Systems Optimization ,http://omscs.gatech.edu/cs-6291-embedded-systems-optimization,formerly CS 8803 O04
+11,Core,CS 6300, Software Development Process,http://omscs.gatech.edu/cs-6300-software-development-process,
+12,Core,CS 6310, Software Architecture and Design,http://omscs.gatech.edu/cs-6310-software-architecture-design,
+13,Core,CS 6340, Software Analysis,http://omscs.gatech.edu/cs-6340-software-analysis,
+14,Core,CS 6400, Database Systems Concepts and Design,http://omscs.gatech.edu/cs-6400-database-systems-concepts-and-design,
+15,Core,CS 6440, Intro to Health Informatics,http://omscs.gatech.edu/cs-6440-intro-health-informatics,
+16,,CS 6457, Video Game Design,http://omscs.gatech.edu/cs-6457-video-game-design,
+17,Core,CS 6460, Educational Technology,http://omscs.gatech.edu/cs-6460-educational-technology,
+18,Core,CS 6475, Computational Photography,http://omscs.gatech.edu/cs-6475-computational-photography,
+19,Core,CS 6476, Computer Vision,http://omscs.gatech.edu/cs-6476-computer-vision,
+20,Core,CS 6515, Intro to Graduate Algorithms ,http://omscs.gatech.edu/cs-6515-intro-graduate-algorithms,formerly CS 8803 GA
+21,Core,CS 6601, Artificial Intelligence,http://omscs.gatech.edu/cs-6601-artificial-intelligence,
+22,Core,CS 6603," AI, Ethics, and Society ",http://omscs.gatech.edu/cs-6603-ai-ethics-and-society,formerly CS 8803 O10
+23,Core,CS 6750, Human-Computer Interaction,http://omscs.gatech.edu/cs-6750-human-computer-interaction,
+24,Core,CS 7210, Distributed Systems ,,page coming soon!
+25,Core,CS 7280, Network Science,http://omscs.gatech.edu/cs-7280-network-science,
+26,Core,CS 7632, Game AI,http://omscs.gatech.edu/cs-7632-game-ai,
+27,Core,CS 7637, Knowledge-Based Artificial Intelligence - Cognitive Systems,http://omscs.gatech.edu/cs-7637-knowledge-based-artificial-intelligence-cognitive-systems,
+28,Core,CS 7638, Artificial Intelligence for Robotics ,http://omscs.gatech.edu/cs-7638-artificial-intelligence-robotics,formerly CS 8803 O01
+29,Core,CS 7639, Cyber-Physical Design and Analysis ,http://omscs.gatech.edu/cs-7639-cyber-physical-design-and-analysis,formerly CS 8803 O09
+30,Core,CS 7641, Machine Learning,http://omscs.gatech.edu/cs-7641-machine-learning,
+31,Core,CS 7642, Reinforcement Learning ,https://www.omscs.gatech.edu/cs-7642-reinforcement-learning,formerly CS 8803 O03
+32,Core,CS 7643, Deep Learning,http://omscs.gatech.edu/cs-7643-deep-learning,
+33,Core,CS 7646, Machine Learning for Trading,http://omscs.gatech.edu/cs-7646-machine-learning-trading,
+34,Core,CSE 6220, Intro to High-Performance Computing,http://omscs.gatech.edu/cse-6220-intro-hpc,
+35,Core,CSE 6242, Data and Visual AnalyticsA,http://omscs.gatech.edu/cse-6242-data-visual-analytics,
+36,Core,CSE 6250, Big Data for Health Informatics,http://omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics,
+37,,ECE 8843, Side-Channels and Their Role in CybersecurityC,http://omscs.gatech.edu/ece-8843-side-channels-and-their-role-cybersecurity,
+38,,ISYE 6402, Time Series AnalysisA,http://omscs.gatech.edu/cse-6220-intro-hpc,
+39,Core,ISYE 6420, Bayesian StatisticsA,http://www.omscs.gatech.edu/isye-6420-bayesian-statistics,
+40,,ISYE 6501, Intro to Analytics ModelingA,http://omscs.gatech.edu/isye-6501-intro-analytics-modeling,
+41,,ISYE 6644, SimulationA ,,page coming soon!
+42,,ISYE 6669, Deterministic OptimizationA ,,page coming soon!
+43,,ISYE 8803, Topics on High-Dimensional Data AnalyticsA,http://omscs.gatech.edu/isye-8803-topics-high-dimensional-data-analytics,
+44,,MGT6311, Digital MarketingA ,,page coming soon!
+45,,PUBP 6725, Information Security PoliciesC,http://omscs.gatech.edu/pubp-6725-information-security-policies,
